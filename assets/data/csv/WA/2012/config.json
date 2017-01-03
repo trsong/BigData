@@ -1,0 +1,22 @@
+{
+    "name": "WA_Sales_Products_2012-14.csv",
+    "display_name": "Watson Analytics Sample Data – Sales Products",
+    "retrieve_date": "20170102",
+    "website_address": "https://www.ibm.com/communities/analytics/watson-analytics-blog/sales-products-sample-data/",
+    "data_address": "https://community.watsonanalytics.com/wp-content/uploads/2015/08/WA_Sales_Products_2012-14.csv?cm_mc_uid=67502606876214834012964&cm_mc_sid_50200000=1483401296",
+    "row_size": 88475,
+    "column_size": 11,
+    "columns": [
+        "Retailer country",
+        "Order method type",
+        "Retailer type",
+        "Product line",
+        "Product type",
+        "Product",
+        "Year",
+        "Quarter",
+        "Revenue",
+        "Quantity",
+        "Gross margin"
+    ]
+}
